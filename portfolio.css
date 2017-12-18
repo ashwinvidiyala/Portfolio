@@ -1,0 +1,150 @@
+* {
+	padding: 0;
+	margin: 0;
+	}
+
+#header {
+  background-color: #F0E9EF;
+  font-family: arial;
+  padding: 5px 10px 0px 10px;
+  margin-bottom: 0px;
+  border-bottom: 0px;
+}
+
+#header-1 {
+  display: inline-block;
+  width: 460px;
+  padding-left: 10px;
+  text-align: left;
+}
+
+#header-2 {
+  display: inline-block;
+  width: 465px;
+  padding-right: 10px;
+  text-align: right;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+#container {
+  width: 970px;
+}
+
+.sub-content {
+  display: inline-block;
+  margin: 25px 0px 0px 20px;
+  background-color: #F1F4F8;
+  vertical-align: top;
+}
+
+#about {
+  width: 450px;
+  height: 303px;
+  vertical-align: top;
+  background: linear-gradient(to right, #FEFEFE, #dbccda)
+}
+.sub-content-2 {
+  width: 292px;
+  height: 613px;
+}
+
+.technologies {
+  vertical-align: bottom;
+}
+
+.sub-content-image {
+  width: 292px;
+}
+
+.sub-heading {
+  /*background-color: #44515a;*/
+  background: linear-gradient(#C0C0C0, #282A2C);
+  color: #FFFFFF;
+  padding: 10px 0px 10px 10px;
+  font-family: arial;
+}
+
+.text {
+  padding-left: 10px;
+  font-family: serif;
+  padding-right: 10px;
+  font-family: arial;
+  background: linear-gradient(to right, #FEFEFE, #dbccda)
+}
+
+.text-2 {
+  height: 180px;
+}
+
+#lady-image {
+  width: 440px;
+  border: 5px solid #DDCDDA;
+  border-width: thick;
+  /*margin: 25px 25px 25px 25px;*/
+}
+
+#main-content {
+  background-color: #49353D;
+  margin-top: 0px;
+  border-top: 0px;
+  padding-top: 0px;
+  height: 990px;
+}
+
+p {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.technology {
+  width: 43px;
+  padding: 6px;
+}
+
+.button {
+  background-color: #407c61;
+  color: white;
+  padding: 3px 5px;
+  border: black;
+  font-size: 15px;
+  /*box-shadow: 50px;*/
+  border-radius: 5px;
+  border: 1px solid black;
+  box-shadow: 3px 3px #8c8c8c;
+}
+
+.button-p {
+  text-align: center;
+}
+
+.footer-text {
+
+}
+
+.footer-text-social {
+  font-style: italic;
+  display: inline-block;
+}
+
+.footer-image-social {
+  height: 20px;
+  width: 20px;
+}
+
+.footer {
+  /*margin: auto;
+  width: 50%;*/
+  text-align: center;
+  font-family: arial;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+a {
+  color: black;
+}
